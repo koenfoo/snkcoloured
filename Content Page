@@ -1,13 +1,13 @@
 {
   "title": "Attack on Titan",
-  "description": "<manga description>",
+  "description": "The full collection of fan coloured chapters by SCNK.",
   "artist": "Hajime Isayama",
   "author": "Hajime Isayama",
-  "cover": "<mangacoverurl.jpg>",
+  "cover": "https://media.discordapp.net/attachments/887391785263976501/892107431495204884/Shingeki_no_Kyojin_Chapter_111_Coloured_ANNIVERSARY_EDITION.png",
   "chapters": {
     "92": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+      "title": "Marley's Soldiers",
+      "volume": "23",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/NHieyEg/"
       },
