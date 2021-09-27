@@ -1,1 +1,17 @@
-=CLEAN("{""title"":"""&B7&""",""description"":"""&B8&""",""artist"":"""&B9&""",""author"":"""&B10&""",""cover"":"""&B11&""",""chapters"":"&"{"&CONCATENATE(A14:A)&"}"&"}")
+{
+  "title": "<manga title>",
+  "description": "<manga description>",
+  "artist": "<manga artist>",
+  "author": "<manga author>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/NHieyEg/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
