@@ -1,11 +1,11 @@
 {
-  "title": "<manga title>",
+  "title": "Attack on Titan",
   "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
+  "artist": "Hajime Isayama",
+  "author": "Hajime Isayama",
   "cover": "<mangacoverurl.jpg>",
   "chapters": {
-    "<chapter number>": {
+    "92": {
       "title": "<chapter name>",
       "volume": "<volume number>",
       "groups": {
