@@ -5,11 +5,35 @@
   "author": "Hajime Isayama",
   "cover": "https://media.discordapp.net/attachments/887391785263976501/892107431495204884/Shingeki_no_Kyojin_Chapter_111_Coloured_ANNIVERSARY_EDITION.png",
   "chapters": {
-    "92": {
+    "91": {
+      "title": "The Other Side of the Ocean",
+      "volume": "23",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/x2XFa/"
+      },
+      "last_updated": "1616368746"
+    },
+   "92": {
       "title": "Marley's Soldiers",
       "volume": "23",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/NHieyEg/"
+      },
+      "last_updated": "1616368746"
+    },
+   "93": {
+      "title": "Midnight Train",
+      "volume": "23",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/tVasyIJ/"
+      },
+      "last_updated": "1616368746"
+    },
+   "94": {
+      "title": "The Boy Inside the Walls",
+      "volume": "23",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/3VNftdJ/"
       },
       "last_updated": "1616368746"
     }
