@@ -1,6 +1,6 @@
 {
    "title":"Attack on Titan",
-   "description":"The full collection of fan coloured chapters by SCNK and other groups for the entire span of the Marley Arc (Volumes 23-26: Chapters 92-106).",
+   "description":"The full collection of fan coloured chapters by SCNK and other artists for the entire span of the Marley Arc (Volumes 23-26: Chapters 92-106). Chapter 95 is currently incomplete.",
    "artist":"Hajime Isayama",
    "author":"Hajime Isayama",
    "cover":"https://pbs.twimg.com/media/EdX3NO6UwAMCwIe?format=jpg&name=large",
@@ -85,13 +85,53 @@
          },
          "last_updated":"1616368746"
       },
-      "100":{
-         "title":"Declaration of War",
+      "101":{
+         "title":"Warhammer Titan",
          "volume":"25",
          "groups":{
             "SCNK":"/proxy/api/imgur/chapter/A5TevdN/"
          },
          "last_updated":"1616368746"
       },
+      "102":{
+         "title":"Too Little, Too Late",
+         "volume":"25",
+         "groups":{
+            "SCNK":"/proxy/api/imgur/chapter/OPbX9IL/"
+         },
+         "last_updated":"1616368746"
+      },
+      "103":{
+         "title":"Assault",
+         "volume":"26",
+         "groups":{
+            "SCNK":"/proxy/api/imgur/chapter/yCqNy7G/"
+         },
+         "last_updated":"1616368746"
+      },
+      "104":{
+         "title":"Victors",
+         "volume":"26",
+         "groups":{
+            "SCNK":"/proxy/api/imgur/chapter/JjPLVTN/"
+         },
+         "last_updated":"1616368746"
+      },
+      "105":{
+         "title":"Assasin's Bullet",
+         "volume":"26",
+         "groups":{
+            "SCNK":"/proxy/api/imgur/chapter/zpgXxYg/"
+         },
+         "last_updated":"1616368746"
+      },
+      "106":{
+         "title":"Brave Volunteers",
+         "volume":"26",
+         "groups":{
+            "SCNK":"/proxy/api/imgur/chapter/dmizYq2/"
+         },
+         "last_updated":"1616368746"
+      }
    }
 }
