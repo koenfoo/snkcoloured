@@ -3,7 +3,7 @@
    "description":"The full collection of fan coloured chapters by SCNK and other groups for the entire span of the Marley Arc (Volumes 23-26: Chapters 92-106).",
    "artist":"Hajime Isayama",
    "author":"Hajime Isayama",
-   "cover":"https://media.discordapp.net/attachments/887391785263976501/892107431495204884/Shingeki_no_Kyojin_Chapter_111_Coloured_ANNIVERSARY_EDITION.png",
+   "cover":"https://pbs.twimg.com/media/EdX3NO6UwAMCwIe?format=jpg&name=large",
    "chapters":{
       "91":{
          "title":"The Other Side of the Ocean",
@@ -68,6 +68,30 @@
             "SCNK":"/proxy/api/imgur/chapter/SBexv/"
          },
          "last_updated":"1616368746"
-      }
+      },
+      "99":{
+         "title":"Guilty Shadow",
+         "volume":"25",
+         "groups":{
+            "Shin-color No Kyojin":"/proxy/api/imgur/chapter/VkQHj/"
+         },
+         "last_updated":"1616368746"
+      },
+      "100":{
+         "title":"Declaration of War",
+         "volume":"25",
+         "groups":{
+            "Shin-color No Kyojin":"/proxy/api/imgur/chapter/0VdUT/"
+         },
+         "last_updated":"1616368746"
+      },
+      "100":{
+         "title":"Declaration of War",
+         "volume":"25",
+         "groups":{
+            "SCNK":"/proxy/api/imgur/chapter/A5TevdN/"
+         },
+         "last_updated":"1616368746"
+      },
    }
 }
